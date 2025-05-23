@@ -128,7 +128,6 @@ const elementsToAnimate = document.querySelectorAll(
 );
 function animateElements(entries) {
   entries.forEach(entry => {
-    console.log(entry);
     if (!entry.isIntersecting) return;
     entry.target.classList.add('animate');
     animateObserver.unobserve(entry.target);
