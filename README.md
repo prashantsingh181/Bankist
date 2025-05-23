@@ -2,6 +2,10 @@
 
 **Bankist** is a sleek and modern landing page for a fictional banking service. It’s designed with a minimalist aesthetic and built entirely with HTML, CSS, and vanilla JavaScript. This project showcases multiple interactive UI components and performance-enhancing techniques.
 
+## 🚀 Live Preview
+
+👉 [Click here to view the live app](https://prashantsingh181.github.io/Bankist/)
+
 ## ✨ Features
 
 ### 📱 Fully Responsive Design
