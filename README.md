@@ -4,6 +4,10 @@
 
 ## ✨ Features
 
+### 📱 Fully Responsive Design
+- Optimized for desktops, tablets, and mobile devices.
+- Layout and interactive elements adapt seamlessly across screen sizes.
+
 ### 🪟 Modal Window
 - Opens on button click and closes via button, overlay click, or `Escape` key.
 - Smooth transition and overlay for focused user interaction.
